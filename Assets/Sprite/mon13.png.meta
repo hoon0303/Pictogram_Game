@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: 065a214d1c8d7b54db998b4741c7446c
+timeCreated: 1509879998
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mon13_0
+    21300002: mon13_1
+    21300004: mon13_2
+    21300006: mon13_3
+    21300008: mon13_4
+    21300010: mon13_5
+    21300012: mon13_6
+    21300014: mon13_7
+    21300016: mon13_8
+    21300018: mon13_9
+    21300020: mon13_10
+    21300022: mon13_11
+    21300024: mon13_12
+    21300026: mon13_13
+    21300028: mon13_14
+    21300030: mon13_15
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mon13_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon13_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon13_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon13_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon13_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon13_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon13_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon13_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon13_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon13_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon13_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon13_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon13_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon13_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon13_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon13_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -122, y: -82}
+      - {x: -122, y: -114}
+      - {x: -115, y: -122}
+      - {x: -86, y: -122}
+      - {x: -70, y: -112}
+      - {x: -70, y: -88}
+      - {x: -72, y: -82}
+    - - {x: 6, y: -82}
+      - {x: 6, y: -112}
+      - {x: 19, y: -122}
+      - {x: 44, y: -122}
+      - {x: 58, y: -105}
+      - {x: 58, y: -87}
+      - {x: 56, y: -82}
+    - - {x: -47, y: -80}
+      - {x: -60, y: -86}
+      - {x: -60, y: -116}
+      - {x: -48, y: -120}
+      - {x: -10, y: -120}
+      - {x: -4, y: -107}
+      - {x: -4, y: -87}
+      - {x: -14, y: -80}
+    - - {x: 112, y: -86}
+      - {x: 114, y: -80}
+      - {x: 74, y: -80}
+      - {x: 68, y: -86}
+      - {x: 68, y: -103}
+      - {x: 69, y: -105}
+      - {x: 86, y: -120}
+      - {x: 107, y: -120}
+      - {x: 124, y: -106}
+      - {x: 124, y: -92}
+      - {x: 120, y: -83}
+    - - {x: -77, y: -18}
+      - {x: -120, y: -18}
+      - {x: -122, y: -21}
+      - {x: -122, y: -55}
+      - {x: -114, y: -58}
+      - {x: -94, y: -58}
+      - {x: -83, y: -48}
+      - {x: -76, y: -38}
+      - {x: -76, y: -20}
+    - - {x: -56, y: -18}
+      - {x: -59, y: -20}
+      - {x: -62, y: -30}
+      - {x: -62, y: -43}
+      - {x: -51, y: -57}
+      - {x: -49, y: -58}
+      - {x: -29, y: -58}
+      - {x: -12, y: -41}
+      - {x: -12, y: -18}
+    - - {x: 50, y: -18}
+      - {x: 12, y: -18}
+      - {x: 6, y: -20}
+      - {x: 6, y: -55}
+      - {x: 15, y: -58}
+      - {x: 33, y: -58}
+      - {x: 49, y: -41}
+      - {x: 52, y: -36}
+      - {x: 52, y: -23}
+    - - {x: 77, y: -18}
+      - {x: 69, y: -20}
+      - {x: 66, y: -30}
+      - {x: 66, y: -43}
+      - {x: 77, y: -57}
+      - {x: 78, y: -58}
+      - {x: 99, y: -58}
+      - {x: 116, y: -40}
+      - {x: 116, y: -18}
+    - - {x: -116, y: 46}
+      - {x: -116, y: 22}
+      - {x: -105, y: 6}
+      - {x: -74, y: 6}
+      - {x: -70, y: 9}
+      - {x: -70, y: 46}
+    - - {x: -52, y: 46}
+      - {x: -52, y: 18}
+      - {x: -44, y: 6}
+      - {x: -12, y: 6}
+      - {x: -2, y: 17}
+      - {x: -2, y: 40}
+      - {x: -11, y: 46}
+    - - {x: 52, y: 46}
+      - {x: 14, y: 46}
+      - {x: 12, y: 41}
+      - {x: 12, y: 21}
+      - {x: 31, y: 6}
+      - {x: 50, y: 6}
+      - {x: 51, y: 7}
+      - {x: 56, y: 11}
+      - {x: 58, y: 18}
+      - {x: 58, y: 43}
+    - - {x: 76, y: 46}
+      - {x: 76, y: 21}
+      - {x: 87, y: 6}
+      - {x: 115, y: 6}
+      - {x: 126, y: 20}
+      - {x: 126, y: 46}
+    - - {x: -119, y: 110}
+      - {x: -122, y: 107}
+      - {x: -122, y: 87}
+      - {x: -111, y: 70}
+      - {x: -80, y: 70}
+      - {x: -70, y: 88}
+      - {x: -70, y: 104}
+      - {x: -72, y: 110}
+    - - {x: 54, y: 110}
+      - {x: 8, y: 110}
+      - {x: 6, y: 108}
+      - {x: 6, y: 91}
+      - {x: 7, y: 82}
+      - {x: 17, y: 70}
+      - {x: 48, y: 70}
+      - {x: 58, y: 91}
+      - {x: 58, y: 104}
+    - - {x: -49, y: 112}
+      - {x: -60, y: 108}
+      - {x: -60, y: 86}
+      - {x: -53, y: 72}
+      - {x: -14, y: 72}
+      - {x: -4, y: 85}
+      - {x: -4, y: 104}
+      - {x: -20, y: 112}
+    - - {x: 108, y: 104}
+      - {x: 108, y: 110}
+      - {x: 107, y: 112}
+      - {x: 78, y: 112}
+      - {x: 68, y: 108}
+      - {x: 68, y: 84}
+      - {x: 80, y: 72}
+      - {x: 112, y: 72}
+      - {x: 121, y: 75}
+      - {x: 124, y: 80}
+      - {x: 124, y: 101}
+      - {x: 120, y: 110}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
