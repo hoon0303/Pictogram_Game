@@ -99,4 +99,3 @@ The player's goal is to navigate through obstacles and avoid falling to reach th
 - **SoundManager.cs**: Manages sound effects.
 
 
-
