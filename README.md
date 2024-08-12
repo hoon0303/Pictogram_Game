@@ -4,6 +4,8 @@
 ## Overview
 Pictogram Game is a side-scroller running arcade game developed for Android. Players control a character represented by a restroom pictogram as they navigate through obstacles and various challenges to reach their goal.
 
+<img src="main.png" width="600">
+
 > This project was developed by **GameMakers**. For more information, visit [GameMakers](https://gamemakers.oopy.io/).
 
 ## Project Structure
